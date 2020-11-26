@@ -1,0 +1,4 @@
+#Thu Nov 26 10:54:32 CST 2020
+base.0=D\:\\app trash\\MyNotes\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
